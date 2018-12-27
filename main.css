@@ -1,0 +1,46 @@
+h1, h2,  h4 {
+    color: aqua;
+    font-family: fantasy;
+    font-size: 33px;
+    text-shadow: 5px 5px 8px grey;
+}
+
+h3 {
+     color: grey;
+    font-family: fantasy;
+    font-size: 33px;
+    text-shadow: -5px -5px 8px aqua;
+    
+}
+
+body {
+    background-image: url(punk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+    
+.parent {
+    border-bottom: solid #ff1aff 23px;
+    border-top: solid #ff1aff;
+        
+    }
+
+ul > li {
+    color: yellow;
+    font-size: 27px;
+    text-shadow: 2px 2px 5px black;
+}
+
+ul {
+    color: green;
+    font-size: 27px;
+    text-shadow: 2px 2px 5px black;
+    
+}
+
+.holla {
+    font-family: cursive;
+    font-size: 33px;
+    text-shadow: 3px 3px 3px grey
+}
